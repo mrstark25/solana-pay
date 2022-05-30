@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Rajpal Yadav GIFs",
+    "price": "0.05",
+    "description": "Get this Rajpal Yadav GIF for only $0.05!",
+    "image_url": "https://c.tenor.com/l0Gv-qPaq_oAAAAd/dhol-maru.gif",
+    "filename": "GIFs",
+    "hash": "QmfHERRCvcKSLL6myj6RHeLPKPGmDnxqCi69VeYNq2kLDt"
+  },
+  {
+    "id": 2,
+    "name": "Rajpal Yadav 01",
+    "price": "0.07",
+    "image_url": "https://i.pinimg.com/originals/44/32/7a/44327add96b0699dc534e15d3366e774.gif",
+    "description": "Funny GIF of Rajpal Yadav"
+  },
+  {
+    "id": 3,
+    "name": "Rajpal Yadav 02",
+    "price": "0.09",
+    "image_url": "https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Gifs/hd_92bcaddf-62ae-4246-a7a9-7d04b8a038fe_rajpal-yadav-icon.gif",
+    "description": "Rajpal Yadav funny GIF"
+  },
+  {
+    "id": 4,
+    "name": "GIF",
+    "price": "0.06",
+    "image_url": "https://i.pinimg.com/originals/82/f1/5e/82f15e7fd1333497697829ac00452dd6.gif",
+    "description": "A simple GIF"
+  }
+]
